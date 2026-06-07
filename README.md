@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pralad Parajuli</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
-<img align="right" alt="GIF" src="https://www.gif-vif.com/trending/animated-angry-man-coding-u40xyqr26qyez70f.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="400" height="320" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pralad-parajuli&label=Profile%20views&color=0e75b6&style=flat" alt="pralad-parajuli" /> </p>
 
